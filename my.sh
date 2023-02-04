@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Hi,it`s script!"
 
-echo "new branch"
+echo "new branch2"
